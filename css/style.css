@@ -53,7 +53,7 @@ h2 {
 }
 
 .header {
-  background: url("/img/foto/backHeader.png") no-repeat;
+  background: url(../img/foto/backHeader.png) no-repeat;
   width: 1400px;
   height: 100%;
   margin: 0 auto;
@@ -459,4 +459,4 @@ h2 {
   margin-left: auto;
 }
 
-.webp .header { background: url(/img/foto/backHeader.webp) no-repeat; }
+.webp .header { background: url(../img/foto/backHeader.webp) no-repeat; }
